@@ -1,0 +1,27 @@
+h1 {
+	color: #ffffff;
+	font-size: 40px;
+}
+
+.body_background {
+	background-image: url("Small-touchscreen-3.jpg");
+	background-position: center;
+	background-size: cover;
+}
+
+#mCanvas {
+	border-width: 10px;
+	background-color: #ffe9e9;
+	border-style: double;
+}
+span {
+	font-size: 20px;
+}
+button {
+	font-size: 20px;
+	background-color: rgb(255, 159, 255);
+	color: rgb(255, 0, 0);
+}
+input {
+	background-color: rgb(212, 0, 255);
+}
